@@ -1,2 +1,2 @@
-# Gura-Gura_no_Mi
+# Devil-Fruits
 Making Devil Fruit Powers in Unity VR
